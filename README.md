@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning C++
+- 🔭 I’m currently working on learning C+
 - 🌱 I’m about to graduate from The Tech Academy 
 - 👯 My goal for 2020 is to find a software developer job! 
 - 🤔 I’m looking for help with ideas to buff up my portfolio.
