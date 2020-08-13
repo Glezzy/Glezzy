@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ideas to buff up my portfolio.
 - 💬 Ask me about anything! Love to talk about and learn more from others about code.
 - 📫 How to reach me: gsg@pdx.edu
-- ⚡ Fun fact: I love to run! Will be running the St. George Marathon on October 4th, 2020 :) 
+- ⚡ Fun fact: I love to run! Will be running the East Canyon Marathon on September 4th, 2020 :) 
 
