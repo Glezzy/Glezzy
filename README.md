@@ -3,6 +3,7 @@
 <!--
 **Glezzy/Glezzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID)
 
 - 🔭 I’m currently learning C# ! 
 - 🌱 I recently graduated from The Tech Academy! 
